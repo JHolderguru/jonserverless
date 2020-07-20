@@ -1,0 +1,13 @@
+{
+  "name": "aws-serverless-jonholder-api-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "^2.16.0"
+  },
+  "description": "Jon Holder lambda function for Glasswall Serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbo911@hotmail.com"
+}
